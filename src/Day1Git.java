@@ -7,5 +7,6 @@ public class Day1Git {
         System.out.println("Furkan Deneme");
         System.out.println("Furkan Deneme");
         System.out.println("Furkan Deneme");
+        System.out.println("Furkan Deneme");
     }
 }
